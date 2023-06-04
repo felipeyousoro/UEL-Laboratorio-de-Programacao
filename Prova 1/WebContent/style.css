@@ -1,0 +1,42 @@
+.java_book{
+	width: 480px; 
+	display: flex;
+	margin: 0 auto;
+}
+
+.hacker{
+	width: 100px; 
+	display: flex;
+	margin: 0 auto;
+}
+
+.adminTxt{
+	color: green;
+}
+
+.adminBg{
+	background-color: black;
+	color: green;
+}
+
+.bars{
+	margin: 0 auto;
+	background-color: orange;
+}
+
+.ui-state-default.adminCell{
+	background-color: black;
+	color: green;         
+}
+
+.ui-button.admin{
+	font-size: 30px;
+	background-color: black;
+	color: darkgreen;
+}
+
+.ui-button.user{
+	font-size: 30px ;
+	background-color: blue;
+	color: white;
+}
